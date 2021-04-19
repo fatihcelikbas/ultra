@@ -1,0 +1,68 @@
+const homeObjs = [
+  {
+    primary: true,
+    lightBg: false,
+    imgStart: '',
+    lightTopLine: true,
+    lightText: true,
+    lightTextDesc: true,
+    topLine: 'Marketing Agency',
+    headline: 'Lead Generation Specialist for Online Businesses',
+    description:
+      'We help business owners increase their revenue. Our team of unique speciliasts can help you achieve your business goals',
+    buttonLabel: 'Get started',
+    img: require('../../images/svg-1.svg'),
+    alt: 'Image',
+    start: '',
+  },
+  {
+    primary: false,
+    lightBg: true,
+    imgStart: 'start',
+    lightTopLine: false,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: 'Marketing Agency',
+    headline: 'Lead Generation Specialist for Online Businesses',
+    description:
+      'We help business owners increase their revenue. Our team of unique speciliasts can help you achieve your business goals',
+    buttonLabel: 'Get started',
+    img: require('../../images/svg-4.svg'),
+    alt: 'Image',
+    start: 'true',
+  },
+  {
+    primary: true,
+    lightBg: false,
+    imgStart: '',
+    lightTopLine: true,
+    lightText: true,
+    lightTextDesc: true,
+    topLine: 'Marketing Agency',
+    headline: 'Lead Generation Specialist for Online Businesses',
+    description:
+      'We help business owners increase their revenue. Our team of unique speciliasts can help you achieve your business goals',
+    buttonLabel: 'Get started',
+    img: require('../../images/svg-2.svg'),
+    alt: 'Image',
+    start: '',
+  },
+  {
+    primary: false,
+    lightBg: true,
+    imgStart: '',
+    lightTopLine: false,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: 'Marketing Agency',
+    headline: 'Lead Generation Specialist for Online Businesses',
+    description:
+      'We help business owners increase their revenue. Our team of unique speciliasts can help you achieve your business goals',
+    buttonLabel: 'Get started',
+    img: require('../../images/svg-3.svg'),
+    alt: 'Image',
+    start: '',
+  },
+];
+
+export default homeObjs;
