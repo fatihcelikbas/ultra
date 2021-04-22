@@ -1,6 +1,6 @@
 # ultra
 
 To start the app, just type: <code>
-  npm install
+  npm install &&
   npm start
 </code>
