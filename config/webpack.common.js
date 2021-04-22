@@ -26,7 +26,7 @@ module.exports = {
   plugins: [
     // Generates an HTML file from a template
     new HtmlWebpackPlugin({
-      title: 'Shopify',
+      title: 'Ultra',
       template: paths.src + '/template.html', // template file
       filename: 'index.html', // output file
     }),
